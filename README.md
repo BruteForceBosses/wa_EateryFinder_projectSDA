@@ -8,5 +8,7 @@
       Мимоза Авдили
       Драгана Георгиевска
       Тијана Тројнко
+            index number: 181503
+            email address: tijana.trojnko@students.finki.ukim.mk
 
 
