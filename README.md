@@ -6,6 +6,8 @@
             email address: magdalena.petrushevska@students.finki.ukim.mk
       Марија Караризова
       Мимоза Авдили
+            index number: 181526
+            email address: mimoza.avdili@students.finki.ukim.mk
       Драгана Георгиевска
       Тијана Тројнко
             index number: 181503
