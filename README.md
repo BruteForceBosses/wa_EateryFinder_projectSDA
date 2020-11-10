@@ -1,4 +1,4 @@
-#### This repository is aimed for application named GasStationFinder. The development of this app is for the purposes of university subject Software and Design Architecture.
+#### This repository is aimed for application named GasStationFinder. The development of this app is for the purposes of university subject Software Design and Architecture.
 
 #### Team members:
       Магдалена Петрушевска
