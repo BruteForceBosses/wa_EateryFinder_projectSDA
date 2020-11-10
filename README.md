@@ -9,6 +9,8 @@
             index number: 181526
             email address: mimoza.avdili@students.finki.ukim.mk
       Драгана Георгиевска
+            index number: 181534
+            email address: dragana.georgievska@students.finki.ukim.mk
       Тијана Тројнко
             index number: 181503
             email address: tijana.trojnko@students.finki.ukim.mk
