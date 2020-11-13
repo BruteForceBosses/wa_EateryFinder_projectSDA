@@ -1,4 +1,6 @@
-#### This repository is aimed for application named GasStationFinder. The development of this app is for the purposes of university subject Software Design and Architecture.
+#### This repository is designated for a web application named GasStationFinder as part of the homework assignments contained by the subject Software Design and Architecture. 
+Faculty of Computer Science and Engineering, UKIM 2020/2021
+
 
 #### Team members:
       Магдалена Петрушевска
