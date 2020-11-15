@@ -7,6 +7,8 @@ Faculty of Computer Science and Engineering, UKIM 2020/2021
             index number: 181541
             email address: magdalena.petrushevska@students.finki.ukim.mk
       Марија Караризова
+            index number: 181538
+            email address: marija.kararizova@students.finki.ukim.mk
       Мимоза Авдили
             index number: 181526
             email address: mimoza.avdili@students.finki.ukim.mk
