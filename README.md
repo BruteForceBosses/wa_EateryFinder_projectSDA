@@ -1,4 +1,4 @@
-#### This repository is designated for a web application named GasStationFinder as part of the homework assignments contained by the subject Software Design and Architecture. 
+#### This repository is designated for a web application named EateryFinder as part of the homework assignments contained by the subject Software Design and Architecture. 
 Faculty of Computer Science and Engineering, UKIM 2020/2021
 
 
