@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Distance</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Transport" sketch:type="MSLayerGroup" transform="translate(-839.000000, 2.000000)" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Distance" transform="translate(841.000000, 6.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1682" x="0" y="0" width="56" height="43"></rect>
+                <path d="M7.56728027,6.38853532 L12.2225485,11.0438036" id="Path-3744"></path>
+                <path d="M43.5672803,31.3885353 L48.2225485,36.0438036" id="Path-3744"></path>
+                <path d="M7.56728027,6.38853532 L12.2225485,11.0438036" id="Path-3745" transform="translate(9.894914, 8.716169) scale(-1, 1) translate(-9.894914, -8.716169) "></path>
+                <path d="M43.5672803,31.3885353 L48.2225485,36.0438036" id="Path-3745" transform="translate(45.894914, 33.716169) scale(-1, 1) translate(-45.894914, -33.716169) "></path>
+                <path d="M40.6088749,33.4860651 C40.6088749,33.4860651 24.1684576,37.7364189 25.7117563,31.0735523 C27.2550551,24.4106857 33.9079441,25.7706806 38.126145,21.604957 C42.3443459,17.4392335 44.4600997,8.2119633 33.4271407,9.96221769 C22.3941817,11.7124721 24.7083908,20.8303519 18.39624,20.8303512 C12.0840893,20.8303506 11.0777672,13.7920078 11.0777672,13.7920078" id="Path-3748"></path>
+            </g>
+        </g>
+    </g>
+</svg>
