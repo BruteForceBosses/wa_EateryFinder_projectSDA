@@ -5,8 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletComponentScan;
 
 @SpringBootApplication
-
-public class EateryfinderwebappApplication extends SpringBootServletInitializer{
+@ServletComponentScan
+public class EateryfinderwebappApplication{
 
     public static void main(String[] args) {
         SpringApplication.run(EateryfinderwebappApplication.class, args);
