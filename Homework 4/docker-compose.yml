@@ -1,0 +1,43 @@
+version: "3"
+
+
+services:
+
+
+  location-service-eatery:
+    image: location-service-eatery
+    ports:
+      - "9090:9090"
+
+    networks:
+      - test-network
+
+
+
+  service-registry-eatery:
+    image: service-registry-eatery
+    ports:
+      - "8761:8761"
+    depends_on:
+      - location-service-eatery
+    networks:
+      - test-network
+
+
+
+  cloud-service-eatery:
+    image: cloud-service-eatery
+    ports:
+      - "9191:9191"
+
+    depends_on:
+      - location-service-eatery
+      - service-registry-eatery
+
+    networks:
+      - test-network
+
+
+
+networks:
+  test-network:
